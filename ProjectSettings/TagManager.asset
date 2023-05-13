@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: imposter
+    uniqueID: 4132873087
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: paint
+    uniqueID: 2740128769
     locked: 0
